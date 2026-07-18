@@ -1,0 +1,14 @@
+{
+  "guided": {
+    "scale_adherence": 1.0,
+    "motif_reuse": 0.06557377049180328,
+    "tonal_anchor": 0.5,
+    "mean_leap": 3.896551724137931
+  },
+  "random": {
+    "scale_adherence": 0.45901639344262296,
+    "motif_reuse": 0.0,
+    "tonal_anchor": 0.07692307692307693,
+    "mean_leap": 9.866666666666667
+  }
+}
