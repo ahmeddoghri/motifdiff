@@ -28,3 +28,5 @@ jobs:
         run: python examples/quickstart.py
       - name: Run benchmark
         run: python -m motifdiff.benchmark
+      - name: Run fair-baseline comparison
+        run: python -m motifdiff.benchmark_v2
