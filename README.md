@@ -2,7 +2,6 @@
 
 Random notes are not a composition, they are a cat on a keyboard. motifdiff writes an actual MIDI file and then grades itself against exactly that cat.
 
-![CI](https://github.com/ahmeddoghri/motifdiff/actions/workflows/ci.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![deps](https://img.shields.io/badge/runtime%20deps-none-success)
 ![license](https://img.shields.io/badge/license-MIT-black)
