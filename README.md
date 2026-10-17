@@ -2,9 +2,13 @@
 
 Random notes are not a composition, they are a cat on a keyboard. motifdiff writes an actual MIDI file and then grades itself against exactly that cat.
 
+[![tests](https://github.com/ahmeddoghri/motifdiff/actions/workflows/tests.yml/badge.svg)](https://github.com/ahmeddoghri/motifdiff/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![deps](https://img.shields.io/badge/runtime%20deps-none-success)
 ![license](https://img.shields.io/badge/license-MIT-black)
+[![case study](https://img.shields.io/badge/case%20study-adoghri.com-e0703e)](https://adoghri.com/project-24.html)
+
+![motifdiff](docs/cover.jpg)
 
 A lot of "AI music" demos hit shuffle and call it creativity. motifdiff uses a
 masked, iterative denoising loop over MIDI pitch tokens, filling in notes
